@@ -8,7 +8,7 @@ A total of 474 effect sizes from meta-analyses from social psychology during one
 - `Description` is a short description of the effect size in question.
 - `k` is the number of studies.
 - `r` is the mean effect size (Pearson's r).
-- `SD` is the standard deviation of the mean effect size.
+- `SD` is the standard deviation of the mean effect size. This is the only field with missing numbers. They are denoted by `NA`.
 - `documentnumber` refers to the document number of the specific meta-analysis. See appendix in Richard et al. (2003).
 
 ## Categories
