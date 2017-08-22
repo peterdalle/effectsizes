@@ -1,0 +1,475 @@
+Category	Description	k	r	SD	documentnumber
+Aggression	There are genetic influences on aggressiveness	42	0.49	NA	176
+Aggression	Highly aggressive men have high levels of testosterone	118	0.06	0.17	20
+Aggression	People become aggressive when they see aggression-related cues	78	0.16	0.36	45
+Aggression	People become aggressive when they are provoked	66	0.36	0.33	28
+Aggression	People are aggressive toward individuals who provoke them	143	0.51	0.26	47
+Aggression	People who have been provoked are aggressive toward bystanders	24	0.06	0.38	47
+Aggression	People are aggressive when they are in a bad mood	256	0.41	0.29	44
+Aggression	People are aggressive when they are hot	54	0.03	NA	13
+Aggression	People are aggressive when they are under environmental stress	37	0.25	0.29	47
+Aggression	People are aggressive when they are anonymous	24	0.26	NA	13
+Aggression	People who have aggressive personalities display aggressive behavior	27	0.18	NA	13
+Aggression	Pornography increases aggression	33	0.13	0.15	7
+Aggression	Educational briefings prevent pornography from increasing aggression	10	0.29	0.22	9
+Aggression	Sexually aggressive men are aroused by depictions of rape	18	0.24	0.10	121
+Aggression	When people drink alcohol, they become aggressive	88	0.24	0.04	40
+Aggression	When people drink alcohol, they become aggressive	65	0.23	NA	39
+Aggression	When people drink alcohol, they become aggressive	49	0.26	0.32	143
+Aggression	When people think they are drinking alcohol, they become aggressive	20	0.05	NA	39
+Aggression	When people think they are drinking alcohol, they become aggressive	16	0.05	0.17	40
+Aggression	Exposure to mass media violence increases aggression	1142	0.31	0.14	216
+Aggression	Exposure to mass media violence increases aggression	12	0.13	0.12	315
+Aggression	People act antisocially after seeing antisocial behavior on TV	528	0.12	0.40	134
+Aggression	Aggressiveness is stable over time	38	0.48	0.39	322
+Aggression	Males’ aggressiveness is stable over time	24	0.55	0.36	214
+Aggression	Females’ aggressiveness is stable over time	21	0.44	0.33	215
+Aggression	There are sex differences: Men are more aggressive than women	110	0.31	0.23	158
+Aggression	There are sex differences: Men are more aggressive than women	107	0.12	0.14	28
+Aggression	There are sex differences: Men are more aggressive than women	83	0.23	0.10	141
+Aggression	There are sex differences: Men are more aggressive than women	50	0.20	0.35	85
+Aggression	After exposure to violence, men are more aggressive than women	20	0.11	0.16	27
+Aggression	People are more aggressive toward men than women	20	0.06	0.26	85
+Attitudes	Persuasive fear appeals induce attitude change	40	0.11	0.06	279
+Attitudes	Persuasive fear appeals induce attitude change	25	0.21	0.14	34
+Attitudes	Persuasive fear appeals induce behavior change	15	0.10	0.19	34
+Attitudes	Persuasive fear appeals induce behavior change	16	0.13	0.12	279
+Attitudes	Cumulative exposure to mass media influences viewers’ attitudes	52	0.09	0.04	179
+Attitudes	Mere exposure to a stimulus increases liking for that stimulus	208	0.26	0.52	32
+Attitudes	Some people are more persuasive than others	745	0.21	NA	312
+Attitudes	People who are involved in a message are unlikely to be persuaded by it	40	0.10	0.17	145
+Attitudes	A message is most persuasive if it presents a lot of information	31	0.20	0.07	271
+Attitudes	The higher a person’s credibility, the more persuasive that person will be	10	0.10	0.04	271
+Attitudes	Good arguments are persuasive to people who have a high need to think	11	0.15	0.07	41
+Attitudes	Sometimes a message has more persuasive impact after a delay	20	0.00	0.43	11
+Attitudes	Information about a speaker’s credibility has less impact if it is delayed	10	0.13	0.25	207
+Attitudes	Distraction increases the persuasive impact of a message	104	0.03	0.17	37
+Attitudes	Two-sided messages are more persuasive than one-sided messages	26	0.04	0.06	6
+Attitudes	People are more persuaded by comparative than non-comparative ads	95	0.11	0.21	117
+Attitudes	Subliminal advertising increases sales	23	0.00	0.11	291
+Attitudes	Scarcity increases the value of a commodity	49	0.12	0.16	168
+Attitudes	There is consistency between people’s attitudes and behavior	138	0.47	0.14	153
+Attitudes	There is consistency between people’s attitudes and behavior	92	0.65	0.14	154
+Attitudes	There is consistency between people’s attitudes and behavior	88	0.38	0.18	162
+Attitudes	There is consistency between people’s attitudes and behavior	37	0.45	0.46	91
+Attitudes	There is consistency between people’s attitudes and behavior	15	0.43	NA	320
+Attitudes	People do what they intend to do	98	0.45	0.19	225
+Attitudes	People do what they intend to do	87	0.53	0.20	255
+Attitudes	People do what they intend to do	47	0.46	0.21	154
+Attitudes	People do what they intend to do	13	0.56	NA	320
+Attitudes	People are likely to perform an action if they: intend to perform the action and believe they can control it	17	0.51	NA	5
+Attitudes	People are likely to perform an action if they: feel positively about the action and believe it is common	87	0.66	0.13	255
+Attitudes	People are likely to recycle if they: know about recycling	115	0.40	0.26	138
+Attitudes	People are likely to recycle if they: know about recycling, like it, and have an incentive to recycle	115	0.48	0.23	136
+Attitudes	People are likely to recycle if they: have concern for the environment	7	0.11	0.12	247
+Attribution	People attribute their successes to ability	69	0.29	0.35	306
+Attribution	People attribute their successes to ability	25	0.27	NA	305
+Attribution	People attribute their successes to effort	69	0.18	0.27	306
+Attribution	People attribute their successes to effort	25	0.14	NA	305
+Attribution	People attribute their successes to internal factors	49	0.26	0.17	197
+Attribution	Students attribute their academic successes to luck	25	0.01	NA	305
+Attribution	People attribute their failures to bad luck	69	0.10	0.43	306
+Attribution	People attribute their failures to the difficulty of their task	69	0.05	0.42	306
+Attribution	People attribute their failures to the difficulty of their task	25	0.22	NA	305
+Attribution	People attribute their failures to external factors	42	0.09	0.17	197
+Attribution	People take more responsibility for success than failure	23	0.19	0.33	21
+Attribution	People are held more responsible for a severe than a minor accident	22	0.13	0.38	38
+Attribution	There are actor–observer differences in work performance attributions	11	0.41	0.00	68
+Attribution	Successful, expected work performances are attributed to ability	20	0.35	0.17	68
+Attribution	Adults who suffer depression attribute: negative outcomes to internal, global, stable factors	268	0.22	0.15	281
+Attribution	Adults who suffer depression attribute: positive outcomes to external, specific, unstable factors	160	0.14	0.14	281
+Attribution	Children who suffer depression attribute: negative outcomes to internal, global, stable factors	19	0.39	NA	112
+Attribution	Children who suffer depression attribute: negative outcomes to internal, global, stable factors	17	0.38	0.03	147
+Attribution	Children who suffer depression attribute: positive outcomes to external, specific, unstable factors	18	0.32	NA	112
+Attribution	Children who suffer depression attribute: positive outcomes to external, specific, unstable factors	15	0.32	0.06	147
+Attribution	There are sex differences: Men attribute their performance to ability	58	0.07	0.07	308
+Attribution	There are sex differences: Men attribute their performance to ability	28	0.06	0.00	260
+Attribution	There are sex differences: Men attribute their performance to ability	22	0.06	0.02	105
+Attribution	There are sex differences: Men attribute their performance to effort	58	0.03	0.11	308
+Attribution	There are sex differences: Men attribute their performance to effort	22	0.00	0.00	105
+Attribution	Women attribute their performance to luck	58	0.05	0.21	308
+Attribution	Women attribute their performance to luck	26	0.08	0.00	260
+Attribution	Women attribute their performance to luck	22	0.08	0.05	105
+Attribution	Women attribute their performance to the difficulty of their task	58	0.02	0.21	308
+Attribution	Women attribute their performance to the difficulty of their task	21	0.00	0.00	105
+Attribution	Women attribute their performance to the difficulty of their task	20	0.00	0.00	260
+Attribution	Women take more responsibility than men for academic performance	12	0.04	0.19	57
+Attribution	Women’s successes are attributed to effort	84	0.04	NA	283
+Attribution	Men’s successes are attributed to ability, luck, and the ease of the task	230	0.01	NA	283
+Attribution	Women’s failures are attributed to task difficulty	36	0.07	NA	283
+Attribution	Men’s failures are attributed to lack of ability, lack of effort, and bad luck	134	0.02	NA	283
+Expectancy effects	People behave as others expect them to behave	114	0.16	NA	233
+Expectancy effects	People behave as others expect them to behave	113	0.33	0.43	236
+Expectancy effects	Males behave as others expect them to behave	14	0.19	NA	124
+Expectancy effects	Females behave as others expect them to behave	28	0.08	NA	124
+Expectancy effects	Experimenters find the research results they expect to find	35	0.25	NA	232
+Expectancy effects	Some experimenters show bigger expectancy effects than others	22	0.11	NA	59
+Expectancy effects	Some subjects show bigger experimenter expectancy effects than others	26	0.03	NA	59
+Expectancy effects	Teachers expect more from female than male students	28	0.07	NA	75
+Expectancy effects	Teachers expect more from Anglo-Americans than African-Americans	20	0.05	NA	75
+Expectancy effects	Teachers expect more from attractive than unattractive students	24	0.12	NA	75
+Expectancy effects	Teachers who have positive expectations for a student have positive	180	0.19	NA	130
+Expectancy effects	interactions with that student	165	0.19	NA	129
+Expectancy effects	Teachers form self-fulfilling prophecies about students	18	0.05	0.07	226
+Expectancy effects	Students achieve the most if their teachers interact with them, display	58	0.24	NA	130
+Expectancy effects	warmth, and give them positive feedback	50	0.26	NA	129
+Expectancy effects	People have status expectations for one another	7	0.31	0.12	73
+Gender roles	Parents encourage their children to engage in sex-stereotypic activities	21	0.21	0.11	169
+Gender roles	Exposure to TV increases acceptance of gender role stereotypes	31	0.11	0.12	135
+Gender roles	Boys who are reared in father-absent homes are nonmasculine	116	0.07	0.23	269
+Gender roles	Girls who are reared in father-absent homes are nonfeminine	48	0.01	0.14	269
+Gender roles	Women are more likely than men to support the feminist movement	46	0.39	NA	292
+Gender roles	Members of the women’s movement are perceived to be unattractive	21	0.00	0.00	25
+Gender roles	Traditionally sex-typed people have traditional attitudes toward women	27	0.10	0.05	19
+Gender roles	Men are recommended for jobs over women	19	0.20	0.16	212
+Gender roles	People rate male authors more favorably than female authors	575	0.02	0.09	282
+Gender roles	Counselors evaluate female clients more favorably than male clients	60	0.02	NA	259
+Gender roles	Women are more likely than men to say positive things about people	6	0.21	0.35	299
+Gender roles	Nonmasculine men are at risk for assaulting their wives	14	0.10	0.32	276
+Gender roles	Highly feminine women are at risk for being assaulted by their husbands	16	0.19	0.09	276
+Gender roles	Highly feminine people: have high self-esteem	63	0.17	0.11	303
+Gender roles	Highly feminine people: have high self-esteem	35	0.24	NA	288
+Gender roles	Highly feminine people: report high social satisfaction	23	0.27	0.12	242
+Gender roles	Highly masculine people: have high self-esteem	63	0.52	0.23	303
+Gender roles	Highly masculine people: have high self-esteem	36	0.52	NA	288
+Gender roles	Highly masculine people: report high social satisfaction	23	0.14	0.00	242
+Group processes	Goal-setting facilitates group performance	26	0.42	0.08	211
+Group processes	Highly cohesive groups show high group productivity	66	0.25	0.21	190
+Group processes	Highly cohesive groups show high group productivity	51	0.17	0.17	119
+Group processes	Highly cohesive groups show high group productivity	18	0.36	0.14	89
+Group processes	Highly cohesive groups make bad decisions	17	0.02	0.22	183
+Group processes	There is social loafing when people work in a group	163	0.21	0.30	149
+Group processes	All-male groups outperform all-female groups	64	0.19	0.28	314
+Group processes	People produce more ideas alone than in group brainstorming	34	0.45	0.42	196
+Group processes	The members of a group influence one another	108	0.33	0.28	285
+Group processes	People who deviate from a group are rejected by that group	23	0.60	0.37	287
+Group processes	Intelligent people are the most active members of a group	36	0.18	NA	172
+Group processes	A person who is close to others and central to group communication: will be satisfied with the group	33	0.33	0.00	186
+Group processes	A person who is close to others and central to group communication: will actively participate in the group	39	0.33	0.05	186
+Group processes	A person who is close to others and central to group communication: is likely to emerge as leader of the group	33	0.37	0.09	186
+Group processes	People who participate in a group are likely to become the leader of that	72	0.60	NA	268
+Group processes	group	33	0.55	0.17	198
+Group processes	People who are highly esteemed are likely to lead group discussions	17	0.36	0.16	23
+Group processes	Knowledge of others’ views causes a group polarization of attitudes	22	0.44	0.43	142
+Group processes	Hearing others’ arguments causes a group polarization of attitudes	12	0.75	0.43	142
+Group processes	Dormitory crowding makes residents dissatisfied	19	0.28	0.15	192
+Group processes	Large groups have firmer spatial boundaries than small groups	58	0.20	0.19	187
+Group processes	In social dilemmas, people favor self-interest over group interest	130	0.06	NA	241
+Group processes	Tough bargaining strategies produce advantageous outcomes	34	0.20	0.06	10
+Group processes	Negotiators are likely to compromise if they: are experienced	14	0.37	0.28	74
+Group processes	Negotiators are likely to compromise if they: have a cooperative personality and a tough opponent	20	0.37	0.39	74
+Group processes	Negotiators sometimes reach mutually disadvantageous agreements	20	0.20	0.00	289
+Group processes	Conversations lack social content if they are computer-mediated	21	0.09	0.00	298
+Health psychology	People who receive the most social support are healthy	316	0.11	NA	258
+Health psychology	People who receive the most social support are unhealthy	110	0.07	0.13	251
+Health psychology	People who receive the most social support are unhealthy	83	0.06	0.07	250
+Health psychology	People who lack social support have high blood pressure	21	0.08	0.01	294
+Health psychology	Social support facilitates healthy maternal attitudes and behavior	163	0.30	0.24	17
+Health psychology	People who believe they have social support in fact have social support	39	0.27	0.41	224
+Health psychology	People with Type A personalities suffer chronic emotional distress	101	0.13	0.33	278
+Health psychology	The most socially active people report the highest life satisfaction	506	0.15	0.10	209
+Health psychology	Anglo Americans report higher life satisfaction than African-Americans	54	0.10	0.08	272
+Health psychology	Married people report higher life satisfaction than others	111	0.14	0.08	128
+Health psychology	Women report higher life satisfaction than men	85	0.00	0.04	317
+Health psychology	Men report higher life satisfaction than women	149	0.04	0.40	127
+Health psychology	When people drink alcohol, they engage in extreme behaviors	121	0.24	NA	267
+Health psychology	When people think they are drinking alcohol: they engage in extreme behaviors	48	0.19	NA	267
+Health psychology	When people think they are drinking alcohol: they engage in illicit social behaviors	20	0.08	0.18	140
+Health psychology	People with AIDS suffer more stigma than people with other diseases	21	0.22	0.32	61
+Health psychology	People who suffer depression are evaluated negatively	26	0.27	0.19	253
+Health psychology	People who suffer depression make their interaction partners feel bad	63	0.16	0.22	253
+Health psychology	Disabled students have low status among their peers	37	0.30	0.09	205
+Health psychology	People exercise if they are encouraged to exercise	173	0.21	0.00	48
+Health psychology	People exercise if they intend to exercise and like to exercise	70	0.40	0.00	133
+Health psychology	People donate blood if they intend to donate blood and like to do so	23	0.26	NA	98
+Helping behavior	People are likely to help others when they are in a bad mood	85	0.11	NA	46
+Helping behavior	People are likely to help others when they are in a good mood	61	0.26	NA	43
+Helping behavior	Children who are helpful can infer others’ motives and thoughts	22	0.28	0.46	296
+Helping behavior	Children who are helpful can infer others’ feelings and concerns	14	0.09	0.49	296
+Helping behavior	People act prosocially after seeing prosocial behavior on TV	108	0.26	0.42	134
+Helping behavior	Only children are prosocial in character	26	0.07	0.23	90
+Helping behavior	People are likely to help individuals who depend on them	72	0.25	NA	33
+Helping behavior	Rural people are more helpful than urban people	65	0.11	NA	264
+Helping behavior	Men are more likely than women to help others	99	0.17	0.20	79
+Helping behavior	Women are more likely than men to perform caretaking tasks for others	21	0.07	0.09	177
+Helping behavior	Women have more empathy than men	18	0.37	0.19	86
+Helping behavior	Empathy increases helping behavior	161	0.15	0.10	87
+Helping behavior	People who are empathetic are nonaggressive	49	0.10	0.06	178
+Helping behavior	Empathetic people do not act negatively, antisocially, or abusively	23	0.21	NA	178
+Intergroup relations	People prefer their own group to other groups	137	0.35	0.31	188
+Intergroup relations	Minority psychotherapy clients prefer counselors of their own ethnicity	42	0.25	0.24	54
+Intergroup relations	Schoolchildren prefer classmates of their own race	24	0.37	0.15	244
+Intergroup relations	People identify members of their own race better than members of another	44	0.28	0.34	18
+Intergroup relations	race	28	0.33	0.18	35
+Intergroup relations	In judging performance, Anglo Americans favor Anglo Americans over	76	0.09	NA	239
+Intergroup relations	African Americans	74	0.15	0.10	160
+Intergroup relations	In judging performance, African Americans favor African Americans over	16	0.01	NA	239
+Intergroup relations	Anglo Americans	14	0.18	0.17	160
+Intergroup relations	People give higher job ratings to Anglo than African Americans	53	0.20	0.09	103
+Intergroup relations	Supervisors rate African Americans by job performance and knowledge	25	0.26	0.00	161
+Intergroup relations	Supervisors rate Anglo Americans by job performance and knowledge	25	0.14	0.12	161
+Intergroup relations	African Americans believe that they have high academic ability	14	0.08	NA	58
+Intergroup relations	School desegregation raises African Americans’ academic achievement	269	0.04	NA	60
+Intergroup relations	School desegregation raises African Americans’ academic achievement	106	0.22	NA	318
+Intergroup relations	Blacks are slightly more impulsive, aggressive, and mature than Whites	64	0.06	0.37	115
+Intergroup relations	People fuse the visual images of individuals of different races	17	0.05	NA	182
+Intergroup relations	People perceive less in-group than out-group homogeneity	63	0.21	0.47	194
+Intergroup relations	Prejudice causes discrimination	46	0.29	0.18	249
+Intergroup relations	Men are more likely than women to dislike homosexuals	119	0.19	0.13	157
+Intergroup relations	Men are more likely than women to dislike homosexuals	91	0.13	0.11	307
+Intergroup relations	Men are more likely than women to dislike homosexuals	24	0.04	0.08	155
+Intergroup relations	People prefer young adults to elderly adults	43	0.19	0.19	156
+Intergroup relations	Young people believe that the elderly are unqualified for jobs	30	0.30	0.27	102
+Intergroup relations	Elderly people give equal ratings to young and old job applicants	11	0.00	0.30	102
+Intergroup relations	People attribute negative behaviors to members of stereotyped groups	23	0.26	0.16	195
+Intergroup relations	People associate small groups with negative events	36	0.41	0.10	146
+Intergroup relations	People associate small groups with negative events	28	0.34	0.19	195
+Law	A confident eyewitness gives accurate eyewitness testimony	35	0.25	0.09	36
+Law	A confident eyewitness gives accurate eyewitness testimony	30	0.28	0.07	262
+Law	Eyewitnesses are accurate if they were confident before seeing a lineup	9	0.10	0.23	63
+Law	Eyewitnesses who are told that the perpetrator is in a lineup: are confident in identifying a perpetrator	10	0.04	NA	266
+Law	Eyewitnesses who are told that the perpetrator is in a lineup: are inaccurate in identifying a perpetrator	19	0.12	0.35	266
+Law	It is easier to identify a suspect from a lineup than from photographs	28	0.06	0.21	62
+Law	If weapons are present at a crime, eyewitnesses have difficulty: identifying the perpetrator of the crime in a lineup	19	0.06	0.11	265
+Law	If weapons are present at a crime, eyewitnesses have difficulty: recalling the perpetrator’s features	10	0.27	NA	265
+Law	Eyewitnesses are more accurate under some conditions than others	552	0.17	0.39	254
+Law	There are individual differences in eyewitnesses’ accuracy	173	0.05	0.23	254
+Law	Large juries are more likely than small juries to reach a correct verdict	10	0.02	0.09	240
+Law	Large juries are more likely than small juries to produce a hung trial	15	0.07	0.09	240
+Law	A jury’s final verdict is likely to be the verdict a majority initially favored	13	0.63	0.00	171
+Law	If a jury is initially split on a verdict, its final verdict is likely to be lenient	13	0.63	0.00	171
+Law	Juries are more influenced by credible than noncredible witnesses	8	0.17	NA	304
+Law	Juries are harsher on African American than Anglo American defendants	19	0.09	0.03	280
+Law	Jurors are harsh on poor, unattractive African American male defendants	131	0.05	0.11	175
+Law	Jurors are harsh if the victim is an attractive Anglo American female	55	0.04	0.00	175
+Law	Jurors who are high in authoritarianism favor harsh sentences	34	0.16	0.09	202
+Law	In sexual assault cases, female jurors are harsher than male jurors	36	0.16	0.00	248
+Law	Men, more than women, believe that people get what they deserve	39	0.06	0.06	206
+Law	Exposure to pornography encourages acceptance of rape myths	24	0.10	0.09	8
+Law	The people most tolerant of rape are aging, lower-class men of color	61	0.23	0.14	14
+Law	A woman is likely to be held responsible for being raped if she: was previously acquainted with her attacker	14	0.16	0.22	302
+Law	A woman is likely to be held responsible for being raped if she: is of questionable character	17	0.20	0.13	302
+Leadership	In comparison with subordinates: leaders are older	13	0.21	NA	273
+Leadership	In comparison with subordinates: leaders are more intelligent	196	0.25	NA	172
+Leadership	In comparison with subordinates: leaders are more intelligent	17	0.28	NA	273
+Leadership	In comparison with subordinates: leaders are more intelligent	13	0.38	0.03	165
+Leadership	In comparison with subordinates: leaders are more extroverted	119	0.15	NA	172
+Leadership	In comparison with subordinates: leaders are more extroverted	10	0.10	0.19	165
+Leadership	Leaders are most effective if they: have charisma	49	0.54	0.14	107
+Leadership	Leaders are most effective if they: have charisma	47	0.62	0.25	166
+Leadership	Leaders are most effective if they: stimulate subordinates and show them consideration	86	0.52	0.01	166
+Leadership	Leaders are most effective if they: offer rewards that are contingent on performance	43	0.34	0.27	166
+Leadership	Leaders are most effective if they: avoid making unnecessary changes	41	0.04	0.20	166
+Leadership	People are less satisfied with autocratic than democratic leaders	28	0.23	0.18	110
+Leadership	People are more productive under autocratic than democratic leaders	23	0.02	0.07	110
+Leadership	In large groups, leaders initiate structure and are inconsiderate	16	0.07	0.08	185
+Leadership	People are satisfied with leaders who initiate structure	90	0.25	0.17	313
+Leadership	People perform well under leaders who initiate structure	87	0.13	0.28	313
+Leadership	People are satisfied with leaders who show them consideration	88	0.46	0.20	313
+Leadership	People perform well under leaders who show them consideration	88	0.19	0.27	313
+Leadership	Good leader–subordinate relations promote subordinate satisfaction	60	0.53	0.25	111
+Leadership	Good leader–subordinate relations promote subordinate productivity	65	0.28	0.24	111
+Leadership	In favorable situations, task-oriented leaders are most effective	58	0.28	0.23	218
+Leadership	In favorable situations, task-oriented leaders are most effective	57	0.18	0.65	116
+Leadership	In favorable situations, task-oriented leaders are most effective	40	0.24	NA	275
+Leadership	In favorable situations, task-oriented leaders are most effective	18	0.32	NA	245
+Leadership	In favorable situations, task-oriented leaders are most effective	11	0.54	NA	100
+Leadership	In unfavorable situations, task-oriented leaders are most effective	22	0.41	0.21	218
+Leadership	In unfavorable situations, task-oriented leaders are most effective	20	0.44	0.61	116
+Leadership	In unfavorable situations, task-oriented leaders are most effective	13	0.45	NA	100
+Leadership	In unfavorable situations, task-oriented leaders are most effective	12	0.44	NA	245
+Leadership	In intermediate situations, morale-oriented leaders are most effective	69	0.13	0.54	116
+Leadership	In intermediate situations, morale-oriented leaders are most effective	57	0.29	0.06	218
+Leadership	In intermediate situations, morale-oriented leaders are most effective	50	0.36	NA	245
+Leadership	In intermediate situations, morale-oriented leaders are most effective	43	0.31	NA	275
+Leadership	In intermediate situations, morale-oriented leaders are most effective	30	0.20	NA	100
+Leadership	There are sex differences: Women are more effective leaders than men	76	0.01	0.13	83
+Leadership	There are sex differences: Men are more effective leaders than women	18	0.02	0.12	71
+Leadership	Men are more likely than women to: be evaluated favorably as leaders	114	0.02	0.16	84
+Leadership	Men are more likely than women to: be evaluated favorably as leaders	71	0.04	NA	15
+Leadership	Men are more likely than women to: remain subordinates in social groups	15	0.09	0.08	81
+Leadership	Men are more likely than women to: emerge as leaders in other groups	169	0.16	0.17	81
+Leadership	Men are more likely than women to: be task oriented, solitary, and autocratic as leaders	329	0.01	0.35	80
+Leadership	Men are more likely than women to: be non–task oriented and autocratic as school principals	117	0.02	0.18	82
+Methodology	Psychological ratings are reliable	154	0.75	0.39	52
+Methodology	Measures of communication anxiety are reliable across situations	17	0.45	0.17	31
+Methodology	Measures of subjective well-being are valid	77	0.52	0.20	210
+Methodology	Self-evaluations of ability are valid	267	0.31	0.17	170
+Methodology	Self-evaluations of performance are valid	47	0.22	0.12	131
+Methodology	People who report being feminine exhibit feminine behaviors	35	0.17	NA	288
+Methodology	People who report being masculine exhibit masculine behaviors	66	0.24	NA	288
+Methodology	Men report greater masculinity than women	43	0.26	NA	293
+Methodology	Women report greater femininity than men	43	0.40	NA	293
+Methodology	Persuasive fear appeals effectively arouse fear	40	0.36	0.12	34
+Methodology	Illusion of control manipulations changes perceptions of control	53	0.32	0.18	222
+Methodology	Experimental mood induction procedures effectively alter mood	380	0.36	NA	164
+Methodology	Experimental mood induction procedures effectively alter mood	250	0.45	0.06	301
+Methodology	When assessed with a bogus pipeline measure, people: acknowledge undesirable attitudes	31	0.20	0.12	230
+Methodology	When assessed with a bogus pipeline measure, people: acknowledge smoking	30	0.02	0.08	3
+Methodology	When assessed with a bogus pipeline measure, people: deny using drugs	16	0.02	0.03	4
+Methodology	People are most likely to respond to surveys if they: are greeted face-to-face, rather than through the mail	26	0.07	NA	139
+Methodology	People are most likely to respond to surveys if they: are assured that their responses will be confidential	64	0.07	NA	256
+Methodology	People are most likely to respond to surveys if they: are offered monetary incentives	74	0.12	0.08	51
+Methodology	People are most likely to respond to surveys if they: are offered monetary incentives	30	0.08	0.06	104
+Methodology	People are most likely to respond to surveys if they: are given monetary gratuities	85	0.19	0.30	137
+Methodology	People are most likely to respond to surveys if they: are given return postage	6	0.03	0.00	22
+Methodology	People are most likely to respond to surveys if they: receive prior notice, follow-ups, and monetary incentives	184	0.07	0.09	319
+Methodology	People who volunteer to participate in research are unusually: young	39	0.03	NA	235
+Methodology	People who volunteer to participate in research are unusually: intelligent	37	0.11	NA	235
+Methodology	People who volunteer to participate in research are unusually: low in authoritarianism	34	0.10	NA	235
+Methodology	People who volunteer to participate in research are unusually: high in sensation-seeking	26	0.12	NA	235
+Methodology	Taking a pretest improves a person’s score on a posttest	164	0.08	NA	311
+Methodology	People act differently if they believe they are being studied	38	0.00	0.00	2
+Motivation	External rewards increase productivity	13	0.17	0.04	310
+Motivation	External rewards decrease the amount of free time spent on a task	17	0.24	0.05	310
+Motivation	External rewards decrease intrinsic motivation	88	0.16	0.07	237
+Motivation	External rewards increase intrinsic motivation	148	0.03	0.18	42
+Motivation	External rewards decrease intrinsic motivation in some circumstances	99	0.22	NA	286
+Motivation	External rewards increase intrinsic motivation in other circumstances	127	0.09	NA	286
+Motivation	People who have high achievement motivation achieve a lot	383	0.18	0.17	261
+Motivation	African Americans have less achievement motivation than Anglos	26	0.10	0.13	58
+Motivation	Only children have high achievement motivation	43	0.08	0.24	90
+Motivation	Situational factors influence a person’s willingness to wait for a reward	9	0.44	0.26	108
+Motivation	Men are more motivated than women to manage businesses	51	0.11	0.08	76
+Motivation	Boys are more competitive than girls	95	0.03	0.11	274
+Nonverbal communication	Nonverbal behavior quickly conveys accurate information about the actor	38	0.41	0.38	12
+Nonverbal communication	The people who are good at understanding others’ nonverbal behavior: have dominant personalities	15	0.29	0.43	126
+Nonverbal communication	The people who are good at understanding others’ nonverbal behavior: have high socioeconomic status	17	0.15	0.08	126
+Nonverbal communication	The people who are good at understanding others’ nonverbal behavior: are from nonexpressive families	5	0.20	0.00	120
+Nonverbal communication	The people who are good at understanding others’ nonverbal behavior: are intelligent, trusting, well adjusted, and cognitively complex	230	0.10	0.11	64
+Nonverbal communication	People like individuals who make eye contact, smile, and lean forward	75	0.26	NA	290
+Nonverbal communication	People can recognize facial expressions of emotion across cultures	34	0.45	NA	238
+Nonverbal communication	People can recognize facial expressions of emotion across cultures	23	0.53	NA	243
+Nonverbal communication	Emotions are expressed more on the left than the right side of the face	65	0.19	0.23	257
+Nonverbal communication	Smiling increases happiness	16	0.34	0.04	173
+Nonverbal communication	People judge deception accurately	16	0.40	0.21	67
+Nonverbal communication	People judge deception accurately from nonverbal cues	14	0.23	0.43	66
+Nonverbal communication	People judge deception accurately from verbal cues	14	0.39	0.14	66
+Nonverbal communication	People judge deception from certain visible cues (like gaze aversion)	31	0.17	NA	65
+Nonverbal communication	People judge deception from certain audible cues (like high pitch)	19	0.19	0.27	321
+Nonverbal communication	People who are lying have wide pupils, blink a lot, and don’t move their head	110	0.07	NA	65
+Nonverbal communication	People who are lying have wide pupils, blink a lot, and don’t move their head	91	0.12	0.31	321
+Nonverbal communication	People who are lying give short responses, and offer negative, irrelevant remarks	92	0.10	NA	65
+Nonverbal communication	People who are lying give short responses, and offer negative, irrelevant remarks	68	0.15	0.38	321
+Nonverbal communication	There are sex differences: Females smile more than males	20	0.23	NA	125
+Nonverbal communication	In comparison with women, men maintain more physical distance from others	62	0.25	NA	123
+Nonverbal communication	In comparison with males, females gaze more at others	41	0.29	NA	125
+Nonverbal communication	Men touch women more than women touch men	10	0.04	0.50	270
+Nonverbal communication	Women are more skilled at expressing emotion than men	42	0.28	NA	123
+Nonverbal communication	In comparison with men, women have more understanding of nonverbal behavior	64	0.21	NA	123
+Nonverbal communication	In comparison with men, women have more understanding of nonverbal behavior	46	0.17	0.18	122
+Nonverbal communication	Women are more sensitive than men to facial cues	85	0.16	NA	234
+Nonverbal communication	Women are more sensitive than men to vocal cues	68	0.06	NA	234
+Nonverbal communication	Women are more sensitive than men to nonverbal body cues	60	0.11	NA	234
+Personality	Personality characteristics are stable over time	106	0.66	NA	246
+Personality	People agree with one another about others’ personality characteristics	36	0.16	NA	151
+Personality	Introverts are more vigilant than extroverts	216	0.08	0.07	1
+Personality	Introverts are less intelligent than extroverts	100	0.06	0.03	159
+Personality	Unintelligent people have strong reactions to stress	217	0.09	0.08	1
+Personality	Intelligent people are popular	38	0.10	NA	172
+Personality	Sociable, intelligent children are popular with their peers	176	0.05	0.20	204
+Personality	Aggressive, withdrawn children are rejected by their peers	194	0.03	0.28	204
+Personality	Nonaggressive, unsociable children are neglected by their peers	182	0.06	0.11	204
+Personality	Aggressive, sociable children cause controversy among their peers	63	0.18	0.26	204
+Personality	People who are optimistic are usually in a good mood	42	0.43	0.13	16
+Personality	People with low self-esteem often feel bad	6	0.46	0.22	300
+Personality	People with low self-esteem often suffer communication apprehension	31	0.35	NA	167
+Personality	Students who have high self-esteem achieve a lot	1136	0.21	0.47	132
+Personality	Students who perform well have high perceived self-efficacy	38	0.38	0.04	199
+Personality	Students who perform poorly are external in locus of control	261	0.23	0.39	148
+Personality	Students who perform poorly are external in locus of control	67	0.18	0.41	101
+Personality	People who suffer depression are external in locus of control	97	0.32	0.33	26
+Personality	People who suffer depression are external in locus of control	15	0.19	0.11	223
+Personality	Shrewd, manipulative people are external in locus of control	20	0.34	NA	180
+Personality	Intrinsically religious people do not make selfish use of religion	34	0.06	0.15	72
+Personality	Socially anxious people: blush and have rapid heartrate	28	0.36	NA	217
+Personality	Socially anxious people: have negative self-focus, and worry about being evaluated	232	0.46	NA	217
+Personality	Socially anxious people: stutter, pause before speaking, and avoid others	120	0.40	NA	217
+Personality	A person’s ability to process messages is disrupted by anxiety	18	0.34	0.14	221
+Personality	Only children are highly sociable	54	0.00	0.22	220
+Personality	There are sex differences: men have higher self-esteem than women	88	0.06	0.06	97
+Personality	Women experience more anxiety than men	64	0.13	0.08	97
+Personality	Women are more anxious than men about communicating with others	22	0.10	NA	167
+Personality	Women are more likely than men to be external in locus of control	39	0.06	0.16	97
+Personality	Men are more assertive than women	52	0.08	0.19	97
+Personality	Girls develop mature personalities at an earlier age than boys	113	0.14	0.12	53
+Relationships	Romantic partners resemble one another in physical attractiveness	61	0.30	0.10	92
+Relationships	People who are physically attractive are judged to have positive traits	183	0.21	0.12	96
+Relationships	People who are physically attractive are judged to have positive traits	76	0.28	0.18	77
+Relationships	People who are physically attractive are judged to have positive traits	17	0.20	NA	228
+Relationships	People who are physically attractive have positive traits	266	0.09	0.08	96
+Relationships	People who are physically attractive are judged to be intelligent	47	0.29	0.15	144
+Relationships	People who are physically attractive are intelligent	31	0.14	0.11	144
+Relationships	Physically attractive women are popular	28	0.40	0.08	93
+Relationships	Physically attractive men are popular	28	0.36	0.10	93
+Relationships	People engage in self-disclosure to people they like	31	0.34	0.32	55
+Relationships	People who disclose a lot about themselves are liked by others	94	0.14	0.27	55
+Relationships	Interpersonal attraction is reciprocated	11	0.42	NA	151
+Relationships	Friends interact more positively with one another than nonfriends	251	0.18	0.23	203
+Relationships	Adolescents use contraceptives if they: receive social support	45	0.22	NA	309
+Relationships	Adolescents use contraceptives if they: have a good relationship with their partner	37	0.16	NA	309
+Relationships	Spouses who treat one another well are satisfied with their marriage	13	0.29	NA	150
+Relationships	People who relate well to their children relate well to their spouse	253	0.22	0.15	88
+Relationships	People involved in intimate violence give undesirable self-descriptions	18	0.18	0.05	277
+Relationships	There are sex differences in relationships: Women are more likely than men to engage in self-disclosure to others	205	0.09	0.12	70
+Relationships	In comparison with women, men are more likely to rate: physical attractiveness as important in romantic attraction	10	0.18	0.03	94
+Relationships	In comparison with women, men are more likely to rate: physical attractiveness as important in mate selection	34	0.26	0.05	93
+Relationships	In comparison with women, men are more likely to rate: similarity as unimportant in romantic attraction	10	0.11	0.00	94
+Relationships	In selecting a mate, women attach more importance than men to: intelligence	23	0.14	0.04	95
+Relationships	In selecting a mate, women attach more importance than men to: socioeconomic status	23	0.31	0.11	95
+Relationships	In selecting a mate, women attach more importance than men to: character	19	0.16	0.04	95
+Relationships	Women are attracted to taller men, men are attracted to shorter women	14	0.46	0.37	219
+Relationships	Men are more likely than women to: favor premarital sex	46	0.18	0.10	213
+Relationships	Men are more likely than women to: report being aroused by sexual stimuli	62	0.15	0.13	200
+Relationships	Men are more likely than women to: be sexually permissive	39	0.27	0.12	213
+Relationships	Men are more likely than women to: report sexual intercourse	135	0.16	0.11	213
+Relationships	Men are more likely than women to: report petting	28	0.05	0.14	213
+Relationships	Men are more likely than women to: be satisfied if they remarry	65	0.03	0.02	297
+Social cognition	People who engage in a behavior believe that the behavior is common	115	0.31	0.17	184
+Social cognition	People who engage in a behavior believe that the behavior is common	84	0.34	0.21	193
+Social cognition	The members of a majority will underestimate the size of their majority	67	0.33	0.39	193
+Social cognition	The members of a minority will overestimate the size of their minority	67	0.49	0.42	193
+Social cognition	A majority consisting of 50%-62% of a group will overestimate its size	47	0.09	NA	118
+Social cognition	Once people know something, they believe they “knew it all along”	122	0.17	0.14	50
+Social cognition	Impressions are based on stereotyping	40	0.19	NA	163
+Social cognition	Impressions are based on individuals’ special characteristics	40	0.69	NA	163
+Social cognition	People know how well they are liked by others	12	0.30	NA	152
+Social cognition	For social categorization, person categories are most often used	26	0.00	0.20	252
+Social cognition	Accuracy in rating others is reduced by biases, like being too lenient	240	0.05	NA	201
+Social cognition	People are most likely to recall information from social memory if: it is inconsistent with their expectations	165	0.11	0.15	231
+Social cognition	People are most likely to recall information from social memory if: it is consistent with their expectations	65	0.03	0.33	263
+Social cognition	People are most likely to recall information from social memory if: it is consistent with their attitudes	63	0.18	0.44	229
+Social cognition	People are most likely to recall information from social memory if: it is consistent with their stereotypes	26	0.17	0.23	109
+Social cognition	they think about how the information relates to them	129	0.24	0.19	284
+Social cognition	their mood is the same as when they learned the information	100	0.21	0.37	295
+Social cognition	People remember positive events when they are elated	22	0.04	0.00	174
+Social cognition	People remember negative events when they are depressed	35	0.04	0.00	174
+Social cognition	People normally remember more positive than negative events	25	0.07	0.00	174
+Social cognition	Memory is positively related to an individual’s need for cognition	19	0.17	0.19	41
+Social cognition	Women are more accurate than men at recognizing people’s faces	17	0.16	NA	123
+Social influence	In the presence of others: people become physiologically aroused	82	0.08	0.30	29
+Social influence	In the presence of others: people become physiologically aroused	49	0.04	0.52	189
+Social influence	In the presence of others: people show a social facilitation of simple task performance	266	0.11	0.24	29
+Social influence	In the presence of others: people show a social impairment of complex task performance	201	0.16	0.30	29
+Social influence	Children perform well on tests that are administered by people they know	34	0.16	0.18	106
+Social influence	People who get a foot-in-the-door by securing compliance to a small request are likely to gain compliance to a larger request	85	0.16	NA	24
+Social influence	People who get a foot-in-the-door by securing compliance to a small request are likely to gain compliance to a larger request	77	0.13	0.00	99
+Social influence	People who get a foot-in-the-door by securing compliance to a small request are likely to gain compliance to a larger request	34	0.11	0.37	69
+Social influence	People who get a door-in-the-face by securing refusal to a large request are likely to gain compliance to a smaller request	56	0.07	0.00	99
+Social influence	People who get a door-in-the-face by securing refusal to a large request are likely to gain compliance to a smaller request	24	0.08	0.30	69
+Social influence	People who get a door-in-the-face by securing refusal to a large request are likely to gain compliance to a smaller request	17	0.10	0.07	208
+Social influence	People show a conformity to others’ incorrect answers	133	0.42	0.12	30
+Social influence	Women are more likely than men to conform to others’ actions	38	0.06	0.07	56
+Social influence	Women are more susceptible to social influence than men	148	0.08	0.26	78
+Social influence	People are unlikely to express their opinions without others’ support	25	0.05	0.05	113
+Social influence	People are likely to jaywalk if they see another person jaywalk	25	0.16	0.07	191
+Social influence	People who engage in ingratiation are well-liked	69	0.10	0.25	114
+Social influence	It is easiest to influence a person who: has low self-esteem	38	0.11	0.21	227
+Social influence	It is easiest to influence a person who: has moderate self-esteem	41	0.09	0.13	227
+Social influence	It is easiest to influence a person who: has little intelligence	10	0.20	0.25	227
+Social influence	The higher a person’s status, the greater the person’s social influence	9	0.18	0.33	181
+Social influence	Subordinates are most productive and satisfied if their supervisors: use expert or referent power	52	0.27	0.26	49
+Social influence	Subordinates are most productive and satisfied if their supervisors: use legitimate or reward power	52	0.04	0.25	49
+Social influence	Subordinates are most productive and satisfied if their supervisors: refrain from using coercive power	26	0.18	0.22	49
+Social influence	In comparison with majority influence, minority social influence produces: more change in private behaviors unrelated to the influence	12	0.02	0.17	316
+Social influence	In comparison with majority influence, minority social influence produces: less change in other behaviors	26	0.15	0.12	316
