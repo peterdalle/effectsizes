@@ -9,7 +9,7 @@ Thanks to @richarddmorey we now have year as well.
 ## Headers
 
 - `originalorder` is the order of the effect size as in Richard et al. (2003).
-- `Category` is one of 18 categories the effect sizes are grouped into, as in Richard et al. (2003).
+- `Category` is one of 18 research fields the effect sizes are grouped into, as in Richard et al. (2003).
 - `Description` is a short description of the effect size in question.
 - `k` is the number of studies.
 - `r` is the mean effect size (Pearson's r).
@@ -60,7 +60,8 @@ library(dplyr)
 library(ggplot2)
 
 # Reproduce graph in Richard et al. (2003), but use density instead.
-df %>% ggplot(aes(r)) +
+df %>%
+  ggplot(aes(r)) +
   geom_density(fill="grey") + 
   scale_x_continuous(limits=c(0, 1), breaks=seq(0, 1, 0.1)) +
   theme_minimal() +
@@ -68,20 +69,21 @@ df %>% ggplot(aes(r)) +
        x="Mean correlation coefficient",
        y="Density")
 
-# Plot all effect sizes per field.
+# Plot all effect sizes by field.
 df %>% 
   ggplot(aes(year, r, color=factor(Category))) +
   geom_point() + 
   theme_minimal() +
-  labs(title="All effect sizes by pear", color="Field")
+  labs(title="All effect sizes by year", color="Field")
 
 # Plot mean effect size by year.
-df %>% group_by(year) %>%
+df %>%
+  group_by(year) %>%
   summarize(meanr = mean(r)) %>%
   ggplot(aes(year, meanr)) +
     geom_point() + 
     theme_minimal() +
-    labs(title="Mean effect size by pear")    
+    labs(title="Mean effect size by year")
 ```
 
 ## Reference
