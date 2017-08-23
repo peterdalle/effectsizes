@@ -53,6 +53,33 @@ mean(subset(df$r, df$Category == "Aggression"))
 
 # Histogram of all effect sizes.
 hist(df$r, breaks = 30)
+
+library(dplyr)
+library(ggplot2)
+
+# Reproduce graph in Richard et al. (2003), but use density instead.
+df %>% ggplot(aes(r)) +
+  geom_density(fill="grey") + 
+  scale_x_continuous(limits=c(0, 1), breaks=seq(0, 1, 0.1)) +
+  theme_minimal() +
+  labs(title="Magnitude of meta-analytic effect sizes in social psychology",
+       x="Mean correlation coefficient",
+       y="Density")
+
+# Plot all effect sizes per field.
+df %>% 
+  ggplot(aes(year, r, color=factor(Category))) +
+  geom_point() + 
+  theme_minimal() +
+  labs(title="All effect sizes by pear", color="Field")
+
+# Plot mean effect size by year.
+df %>% group_by(year) %>%
+  summarize(meanr = mean(r)) %>%
+  ggplot(aes(year, meanr)) +
+    geom_point() + 
+    theme_minimal() +
+    labs(title="Mean effect size by pear")    
 ```
 
 ## Reference
