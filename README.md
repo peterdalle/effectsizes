@@ -4,6 +4,8 @@ A total of 474 effect sizes from meta-analyses from social psychology during one
 
 Thanks to @richarddmorey we now have year as well.
 
+<img src="effect-sizes.png" width="500" alt="Magnitude of meta-analytic effect sizes in social psychology">
+
 ## Headers
 
 - `originalorder` is the order of the effect size as in Richard et al. (2003).
