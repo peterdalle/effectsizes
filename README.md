@@ -2,14 +2,19 @@
 
 A total of 474 effect sizes from meta-analyses from social psychology during one hundred years extracted into a tab-separated CSV file.
 
+Thanks to @richarddmorey we now have year as well.
+
 ## Headers
 
+- `originalorder` is the order of the effect size as in Richard et al. (2003).
 - `Category` is one of 18 categories the effect sizes are grouped into, as in Richard et al. (2003).
 - `Description` is a short description of the effect size in question.
 - `k` is the number of studies.
 - `r` is the mean effect size (Pearson's r).
-- `SD` is the standard deviation of the mean effect size. This is the only field with missing numbers. They are denoted by `NA`.
+- `SD` is the standard deviation of the mean effect size. This is the only field with missing values, denoted by `NA`.
 - `documentnumber` refers to the document number of the specific meta-analysis. See appendix in Richard et al. (2003).
+- `reference` is the reference to the specific meta-analysis.
+- `year` is when the meta-analysis was published (extracted from reference).
 
 ## Categories
 
