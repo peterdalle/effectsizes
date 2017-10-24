@@ -56,8 +56,7 @@ mean(subset(df$r, df$field == "Aggression"))
 # Histogram of all effect sizes.
 hist(df$r, breaks = 30)
 
-library(dplyr)
-library(ggplot2)
+library(tidyverse)
 
 # Reproduce graph in Richard et al. (2003), but use density instead.
 df %>%
@@ -84,6 +83,24 @@ df %>%
   geom_point() + 
   theme_minimal() +
   labs(title="Mean effect size by year", x="Year", y="Effect size (r)")
+```
+
+## Import into Python
+
+```python
+import pandas as pd
+import numpy
+import matplotlib.pyplot as plt
+
+data = pd.read_csv("https://raw.githubusercontent.com/peterdalle/effectsizes/master/soc-psych.tsv", sep="\t")
+
+# What is the mean effect size from all meta-analyses?
+numpy.mean(data["r"])
+
+# Histogram.
+plt.hist(data["r"], bins="auto")
+plt.title("Magnitude of meta-analytic effect sizes in social psychology")
+plt.show()
 ```
 
 ## Reference
